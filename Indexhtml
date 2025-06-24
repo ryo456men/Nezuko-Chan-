@@ -8,9 +8,10 @@
 </head>
 <body>
   <div class="container">
-    <h1>Nezuko-Chan</h1>
-    <p>Created for her by him.</p>
+    <h1>Created for her by him.</h1>
+    <p class="quote">“Set your heart ablaze.”<br><span>— Rengoku</span></p>
   </div>
 </body>
 </html>
+
 
