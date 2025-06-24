@@ -2,15 +2,15 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Nezuko-Chan</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <div class="container">
-    <h1>Welcome to Nezuko-Chan</h1>
-    <p>You made it through the gate.</p>
-    <p>Built quietly... for her.</p>
+    <h1>Nezuko-Chan</h1>
+    <p>Created for her by him.</p>
   </div>
 </body>
 </html>
+
