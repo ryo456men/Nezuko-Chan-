@@ -1,27 +1,32 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: #fff6fa;
   font-family: 'Georgia', serif;
-  background-color: #fffafc;
-  color: #222;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .container {
-  text-align: center;
-  max-width: 500px;
-  padding: 20px;
-  border: 1px solid #eee;
-  border-radius: 10px;
   background: #ffffffdd;
-  box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.08);
+  text-align: center;
+  max-width: 400px;
 }
 
 h1 {
   font-size: 2em;
-  margin-bottom: 10px;
-  color: #cc3366;
+  color: #c94f7c;
+  margin: 0;
 }
+
+p {
+  font-size: 1.2em;
+  color: #333;
+  margin-top: 10px;
+}
+
