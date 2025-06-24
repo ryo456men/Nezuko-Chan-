@@ -1,32 +1,40 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #fff6fa;
+  background: url('https://i.imgur.com/0uE4aB9.jpg') no-repeat center center fixed;
+  background-size: cover;
   font-family: 'Georgia', serif;
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  color: #fff;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
 }
 
 .container {
-  background: #ffffffdd;
+  background-color: rgba(0, 0, 0, 0.4);
   padding: 30px;
-  border-radius: 15px;
-  box-shadow: 0 0 12px rgba(0, 0, 0, 0.08);
+  border-radius: 12px;
   text-align: center;
-  max-width: 400px;
+  max-width: 500px;
 }
 
 h1 {
-  font-size: 2em;
-  color: #c94f7c;
-  margin: 0;
+  font-size: 1.8em;
+  margin-bottom: 15px;
 }
 
-p {
+.quote {
   font-size: 1.2em;
-  color: #333;
-  margin-top: 10px;
+  font-style: italic;
 }
+
+.quote span {
+  display: block;
+  margin-top: 8px;
+  font-size: 1em;
+  opacity: 0.8;
+}
+
 
